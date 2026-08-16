@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+albumentations
+opencv-python-headless
+numpy
+matplotlib
+tqdm
+fvcore  # optional: for GFLOPs / parameter-count benchmarking
